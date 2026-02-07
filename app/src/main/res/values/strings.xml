@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minimal Todo</string>
+    <string name="title">Today</string>
+    <string name="task_hint">Add a new task</string>
+    <string name="add_task">Add task</string>
+    <string name="help_text">Long-press a task to remove it.</string>
+</resources>
